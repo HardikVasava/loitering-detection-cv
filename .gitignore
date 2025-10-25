@@ -1,0 +1,37 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm or other IDE config files
+.idea/
+
+# VS Code config files
+.vscode/
+
+# Model files (to avoid large files being tracked)
+*.pt
+
+# Ignore data and video files
+data/
+*.mp4
+*.avi
+
+# Logs and temporary files
+*.log
+*.bak
+*.tmp
+
+# System-specific files
+.DS_Store
+Thumbs.db
