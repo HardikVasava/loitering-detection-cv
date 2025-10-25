@@ -5,7 +5,6 @@ A real-time AI-powered surveillance system that detects and alerts when individu
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
 ![YOLO](https://img.shields.io/badge/YOLO-v8-green.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## ✨ Features
 
